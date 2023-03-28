@@ -186,4 +186,7 @@ int print_rot13string(va_list types, char buffer[],
 	}
 	return (count);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> e67b9f244da8654bffd6fed71efc4eeb7a29ed0c

@@ -4,9 +4,15 @@
 
 /**
  * print_char - Prints a char
+<<<<<<< HEAD
  * @types: List a of argument
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flag
+=======
+ * @types: List a of arguments
+ * @buffer: Buffer array to handle print
+ * @flags:  Calculates active flags
+>>>>>>> e67b9f244da8654bffd6fed71efc4eeb7a29ed0c
  * @width: Width
  * @precision: Precision specification
  * @size: Size specifier
@@ -22,9 +28,15 @@ int print_char(va_list types, char buffer[],
 /************************* PRINT A STRING *************************/
 /**
  * print_string - Prints a string
+<<<<<<< HEAD
  * @types: List a of argument
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flag
+=======
+ * @types: List a of arguments
+ * @buffer: Buffer array to handle print
+ * @flags:  Calculates active flags
+>>>>>>> e67b9f244da8654bffd6fed71efc4eeb7a29ed0c
  * @width: get width.
  * @precision: Precision specification
  * @size: Size specifier
@@ -77,9 +89,15 @@ int print_string(va_list types, char buffer[],
 /************************* PRINT PERCENT SIGN *************************/
 /**
  * print_percent - Prints a percent sign
+<<<<<<< HEAD
  * @types: Lista of argument
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flag
+=======
+ * @types: Lista of arguments
+ * @buffer: Buffer array to handle print
+ * @flags:  Calculates active flags
+>>>>>>> e67b9f244da8654bffd6fed71efc4eeb7a29ed0c
  * @width: get width.
  * @precision: Precision specification
  * @size: Size specifier
@@ -100,9 +118,15 @@ int print_percent(va_list types, char buffer[],
 /************************* PRINT INT *************************/
 /**
  * print_int - Print int
+<<<<<<< HEAD
  * @types: Lista of argument
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flag
+=======
+ * @types: Lista of arguments
+ * @buffer: Buffer array to handle print
+ * @flags:  Calculates active flags
+>>>>>>> e67b9f244da8654bffd6fed71efc4eeb7a29ed0c
  * @width: get width.
  * @precision: Precision specification
  * @size: Size specifier
@@ -144,9 +168,15 @@ int print_int(va_list types, char buffer[],
 /************************* PRINT BINARY *************************/
 /**
  * print_binary - Prints an unsigned number
+<<<<<<< HEAD
  * @types: Lista of argument
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flag
+=======
+ * @types: Lista of arguments
+ * @buffer: Buffer array to handle print
+ * @flags:  Calculates active flags
+>>>>>>> e67b9f244da8654bffd6fed71efc4eeb7a29ed0c
  * @width: get width.
  * @precision: Precision specification
  * @size: Size specifier

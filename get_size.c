@@ -2,7 +2,11 @@
 
 /**
  * get_size - Calculates the size to cast the argument
+<<<<<<< HEAD
  * @format: Formatted string in which to print the argument
+=======
+ * @format: Formatted string in which to print the arguments
+>>>>>>> e67b9f244da8654bffd6fed71efc4eeb7a29ed0c
  * @i: List of arguments to be printed.
  *
  * Return: Precision.
@@ -24,4 +28,7 @@ int get_size(const char *format, int *i)
 
 	return (size);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> e67b9f244da8654bffd6fed71efc4eeb7a29ed0c
