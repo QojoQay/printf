@@ -37,7 +37,6 @@
  * @l_modifier: on if l_modifier is specified
  *
  */
-
 typedef struct parameters
 {
 	unsigned int unsign			: 1;
@@ -111,7 +110,7 @@ int print_number_left_shift(char *str, params_t *params);
 /* params.c module */
 void init_params(params_t *params, va_list ap);
 
-/* precision.c modoule */
+/* string_fields.c modoule */
 char *get_precision(char *p, params_t *params, va_list ap);
 
 /* _prinf.c module */
