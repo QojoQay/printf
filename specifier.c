@@ -6,7 +6,6 @@
  *
  * Return: the number of bytes printed
  */
-
 int (*get_specifier(char *s))(va_list ap, params_t *params)
 {
 	specifier_t specifiers[] = {
