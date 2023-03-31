@@ -29,7 +29,7 @@ int _printf(const char *format, ...)
 		}
 		start = p;
 		p++;
-		whil (get_flag(p, &params)) /* while char at p is flag char */
+		while (get_flag(p, &params)) /* while char at p is flag char */
 		{
 			p++; /* next char */
 		}
